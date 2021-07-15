@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  width: 100%;
+}
+
+
+.modal .modal-content .modal-header {
+  color: white;
+  background-color: #7d7d7d;
+  padding: 10px 20px;
+}
+
+.modal .modal-content .modal-header .close {
+  background: transparent;
+  border: none;
+}
+
+.modal .modal-content .modal-header .close span {
+  font-size: 30px;
+  color: white;
+}
+
+.modal .modal-content .modal-content a {
+  color: black;
+}
+
+.modal .modal-content .modal-body .item:hover {
+  background-color: #e6e6e6;
+}
+
+a {
+  text-decoration: none !important;
+}
